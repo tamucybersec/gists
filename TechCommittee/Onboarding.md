@@ -1,8 +1,8 @@
-# Initiation
+# Onboarding
 
 Welcome to the Technology Committee! Follow these steps to get set up with our repositories.
 
-## Onboarding
+## Logistics
 
 - Tech Committee Discord server
     - Ask for an invite to the Discord server
